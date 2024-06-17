@@ -1,0 +1,71 @@
+[
+	{
+		"id": "1",
+		"name": "Convertibles",
+		"vehicleIDs": [
+			"7",
+			"8",
+			"13",
+			"19",
+			"20",
+		],
+		"imageURL": "https://images.turo.com/media/vehicle/images/vtiQU_6QQsC7OECYh5oEoA.1242x745.jpg"
+	},
+	{
+		"id": "2",
+		"name": "Blue cars",
+		"vehicleIDs": [
+			"6",
+			"14",
+			"16",
+			"20",
+		],
+		"imageURL": "https://images.turo.com/media/vehicle/images/Mcmu-m1ZQaC2Lk3WI-R7IA.1242x745.jpg"
+	},
+	{
+		"id": "3",
+		"name": "Corvettes",
+		"vehicleIDs": [
+			"3",
+			"10",
+			"19",
+		],
+		"imageURL": "https://images.turo.com/media/vehicle/images/whfLQGQsTl-FHHV_x1WHGg.1242x745.jpg"
+	},
+	{
+		"id": "4",
+		"name": "Electric",
+		"vehicleIDs": [
+			"4",
+			"11",
+			"13",
+		],
+		"imageURL": "https://images.turo.com/media/vehicle/images/GZOAL4AoQRq-IVf4lIhjLQ.1242x745.jpg"
+	},
+	{
+		"id": "5",
+		"name": "Off-Road Ready",
+		"vehicleIDs": [
+			"12",
+			"15",
+			"17",
+			"18",
+		],
+		"imageURL": "https://images.turo.com/media/vehicle/images/tX19N2sMQhyV-JMj59bI9w.1242x745.jpg"
+	},
+	{
+		"id": "6",
+		"name": "Room for the family",
+		"vehicleIDs": [
+			"1",
+			"2",
+			"5",
+			"9",
+			"12",
+			"15",
+			"17",
+			"18"
+		],
+		"imageURL": "https://images.turo.com/media/vehicle/images/aUGdh8wER3iHog_O3Hu9Yg.1242x745.jpg"
+	}
+]

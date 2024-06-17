@@ -1,0 +1,165 @@
+[
+	{
+		"id": "1",
+		"make": "Bentley",
+		"model": "Bentayga",
+		"year": 2020,
+		"imageURL": "https://images.turo.com/media/vehicle/images/aUGdh8wER3iHog_O3Hu9Yg.1242x745.jpg",
+		"type": "suv"
+	},
+	{
+		"id": "2",
+		"make": "BMW",
+		"model": "X6",
+		"year": 2024,
+		"imageURL": "https://images.turo.com/media/vehicle/images/wjcg7vP3SrW4noNtHkd0hw.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "3",
+		"make": "Chevrolet",
+		"model": "Corvette",
+		"year": 2023,
+		"imageURL": "https://images.turo.com/media/vehicle/images/whfLQGQsTl-FHHV_x1WHGg.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "4",
+		"make": "Lucid",
+		"model": "Air",
+		"year": 2023,
+		"imageURL": "https://images.turo.com/media/vehicle/images/GZOAL4AoQRq-IVf4lIhjLQ.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "5",
+		"make": "Ford",
+		"model": "Explorer",
+		"year": 2024,
+		"imageURL": "https://images.turo.com/media/vehicle/images/PRo57q65RluMgYJ1lyICTg.1242x745.jpg",
+		"type": "suv"
+	},
+	{
+		"id": "6",
+		"make": "Honda",
+		"model": "Accord",
+		"year": 2021,
+		"imageURL": "https://images.turo.com/media/vehicle/images/Mcmu-m1ZQaC2Lk3WI-R7IA.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "7",
+		"make": "Mercedes-Benz",
+		"model": "SL-Class",
+		"year": 2022,
+		"imageURL": "https://images.turo.com/media/vehicle/images/vtiQU_6QQsC7OECYh5oEoA.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "8",
+		"make": "Aston Martin",
+		"model": "Vantage",
+		"year": 2021,
+		"imageURL": "https://images.turo.com/media/vehicle/images/OIUSKmcJQh6JHft3AitD-w.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "9",
+		"make": "Porsche",
+		"model": "Macan",
+		"year": 2018,
+		"imageURL": "https://images.turo.com/media/vehicle/images/2hDR-XKuRGO-sivboSbPmw.1242x745.jpg",
+		"type": "suv"
+	},
+	{
+		"id": "10",
+		"make": "Chevrolet",
+		"model": "Corvette",
+		"year": 2024,
+		"imageURL": "https://images.turo.com/media/vehicle/images/lL4WDLl2RwuejRewLtgmbQ.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "11",
+		"make": "Tesla",
+		"model": "Model 3",
+		"year": 1234,
+		"imageURL": "https://images.turo.com/media/vehicle/images/c7RIf6lnRb6Mjac0xPjd9A.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "12",
+		"make": "Jeep",
+		"model": "Gladiator",
+		"year": 2022,
+		"imageURL": "https://images.turo.com/media/vehicle/images/tX19N2sMQhyV-JMj59bI9w.1242x745.jpg",
+		"type": "truck"
+	},
+	{
+		"id": "13",
+		"make": "MINI",
+		"model": "Convertible",
+		"year": 2024,
+		"imageURL": "https://images.turo.com/media/vehicle/images/wYmEOChDTv6ghTg7Q-sKUA.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "14",
+		"make": "Dodge",
+		"model": "Challenger",
+		"year": 2021,
+		"imageURL": "https://images.turo.com/media/vehicle/images/9wtSN7pVSMeOeJIYd7LeQQ.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "15",
+		"make": "Toyota",
+		"model": "Tacoma",
+		"year": 2023,
+		"imageURL": "https://images.turo.com/media/vehicle/images/OWW_8f5sQFGovYDyoKmFGw.1242x745.jpg",
+		"type": "truck"
+	},
+	{
+		"id": "16",
+		"make": "Aston Martin",
+		"model": "Vantage",
+		"year": 2019,
+		"imageURL": "https://images.turo.com/media/vehicle/images/cM2z0DixSHC-2GEz3zKqDQ.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "17",
+		"make": "Ford",
+		"model": "F-150",
+		"year": 2023,
+		"imageURL": "https://images.turo.com/media/vehicle/images/c2HjpAGHR5SfkjC9Sxp-xA.1242x745.jpg",
+		"type": "truck"
+	},
+	{
+		"id": "18",
+		"make": "Ford",
+		"model": "Bronco",
+		"year": 2023,
+		"imageURL": "https://images.turo.com/media/vehicle/images/krC1QI0zQEKhs6Y-kxaoYQ.1242x745.jpg",
+		"type": "suv"
+	},
+	{
+		"id": "19",
+		"make": "Chevrolet",
+		"model": "Corvette",
+		"year": 2022,
+		"imageURL": "https://images.turo.com/media/vehicle/images/il6umKdBRJ-J6cuPW5zytg.1242x745.jpg",
+		"type": "sedan"
+	},
+	{
+		"id": "20",
+		"make": "BMW",
+		"model": "M4",
+		"year": 2024,
+		"imageURL": "https://images.turo.com/media/vehicle/images/N699QZYnSfaw8JeJ5O865w.1242x745.jpg",
+		"type": "sedan"
+	},
+]
+
+
+
